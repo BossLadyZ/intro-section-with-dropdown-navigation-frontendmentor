@@ -137,6 +137,15 @@ h1 {
 .dropdown:hover .dropdown-content {
 	display: block;
 }
+
+.attribution {
+	text-align: center;
+	color: hsl(0, 0%, 41%);
+}
+
+.attribution a {
+	color: goldenrod;
+}
 @media (max-width: 1200px) {
 	.hero {
 		max-width: 960px;
